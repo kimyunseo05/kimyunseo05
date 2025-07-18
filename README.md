@@ -6,8 +6,10 @@
   
 <!-- ![steam88ys's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=steam88ys&theme=high-contrast) -->
 
+<!--
 <h3>🚩Project</h3>
-<a href="https://bioscope.rinorbit.com">https://bioscope.rinorbit.com</a> ID:Admin/PW:1234
+<a href="https://bioscope.rinorbit.com">https://bioscope.rinorbit.com</a> ID:Admin/PW:1234 
+-->
   
 </div>
 <h3>🚩Introduction</h3>
@@ -33,15 +35,16 @@ Database<br>
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;&nbsp;
 
+<!-- 
 Tools<br>
 <img src="https://img.shields.io/badge/Eclipse-FE7A16?style=flat-square&logo=Eclipse&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"> &nbsp; 
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"> 
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VScode&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white">
-    
+-->
 
 <br>
